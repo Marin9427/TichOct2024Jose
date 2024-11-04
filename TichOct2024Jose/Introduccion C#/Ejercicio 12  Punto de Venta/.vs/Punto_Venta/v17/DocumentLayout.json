@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\Punto_Venta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD21375-B85F-4EF5-B37D-490E787A0411}|Punto_Venta\\Punto_Venta.csproj|C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\Punto_Venta\\punto_venta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD21375-B85F-4EF5-B37D-490E787A0411}|Punto_Venta\\Punto_Venta.csproj|solutionrelative:punto_venta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD21375-B85F-4EF5-B37D-490E787A0411}|Punto_Venta\\Punto_Venta.csproj|C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\Punto_Venta\\punto_venta\\itemta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD21375-B85F-4EF5-B37D-490E787A0411}|Punto_Venta\\Punto_Venta.csproj|solutionrelative:punto_venta\\itemta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD21375-B85F-4EF5-B37D-490E787A0411}|Punto_Venta\\Punto_Venta.csproj|C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\Punto_Venta\\punto_venta\\itemdescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD21375-B85F-4EF5-B37D-490E787A0411}|Punto_Venta\\Punto_Venta.csproj|solutionrelative:punto_venta\\itemdescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD21375-B85F-4EF5-B37D-490E787A0411}|Punto_Venta\\Punto_Venta.csproj|C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\Punto_Venta\\punto_venta\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD21375-B85F-4EF5-B37D-490E787A0411}|Punto_Venta\\Punto_Venta.csproj|solutionrelative:punto_venta\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD21375-B85F-4EF5-B37D-490E787A0411}|Punto_Venta\\Punto_Venta.csproj|C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\Punto_Venta\\punto_venta\\itembase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD21375-B85F-4EF5-B37D-490E787A0411}|Punto_Venta\\Punto_Venta.csproj|solutionrelative:punto_venta\\itembase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD21375-B85F-4EF5-B37D-490E787A0411}|Punto_Venta\\Punto_Venta.csproj|c:\\users\\tichs\\documents\\bootcamp jose\\semana2 c#\\dia 1\\punto_venta\\punto_venta\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD21375-B85F-4EF5-B37D-490E787A0411}|Punto_Venta\\Punto_Venta.csproj|solutionrelative:punto_venta\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD21375-B85F-4EF5-B37D-490E787A0411}|Punto_Venta\\Punto_Venta.csproj|c:\\users\\tichs\\documents\\bootcamp jose\\semana2 c#\\dia 1\\punto_venta\\punto_venta\\cargardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD21375-B85F-4EF5-B37D-490E787A0411}|Punto_Venta\\Punto_Venta.csproj|solutionrelative:punto_venta\\cargardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD21375-B85F-4EF5-B37D-490E787A0411}|Punto_Venta\\Punto_Venta.csproj|C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\Punto_Venta\\punto_venta\\json\\articulos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDD21375-B85F-4EF5-B37D-490E787A0411}|Punto_Venta\\Punto_Venta.csproj|solutionrelative:punto_venta\\json\\articulos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\Punto_Venta\\Punto_Venta\\Articulo.cs",
+              "RelativeDocumentMoniker": "Punto_Venta\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\Punto_Venta\\Punto_Venta\\Articulo.cs",
+              "RelativeToolTip": "Punto_Venta\\Articulo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:35:12.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemBase.cs",
+              "DocumentMoniker": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\Punto_Venta\\Punto_Venta\\ItemBase.cs",
+              "RelativeDocumentMoniker": "Punto_Venta\\ItemBase.cs",
+              "ToolTip": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\Punto_Venta\\Punto_Venta\\ItemBase.cs",
+              "RelativeToolTip": "Punto_Venta\\ItemBase.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvyQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:49:38.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\Punto_Venta\\Punto_Venta\\Program.cs",
+              "RelativeDocumentMoniker": "Punto_Venta\\Program.cs",
+              "ToolTip": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\Punto_Venta\\Punto_Venta\\Program.cs",
+              "RelativeToolTip": "Punto_Venta\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwEUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:10:39.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "58517faa-b956-4d6a-9793-527e1470e332",
+        "Display": 1,
+        "X": 185,
+        "Y": 129,
+        "Width": 1195,
+        "Height": 454,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Articulos.json",
+              "DocumentMoniker": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\Punto_Venta\\Punto_Venta\\Json\\Articulos.json",
+              "RelativeDocumentMoniker": "Punto_Venta\\Json\\Articulos.json",
+              "ToolTip": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\Punto_Venta\\Punto_Venta\\Json\\Articulos.json",
+              "RelativeToolTip": "Punto_Venta\\Json\\Articulos.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T15:56:48.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "b6b2deac-8b36-4285-ba9a-34b3b5c9cb6a",
+        "Display": 1,
+        "X": 91,
+        "Y": 129,
+        "Width": 1070,
+        "Height": 555,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CargarDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\Punto_Venta\\Punto_Venta\\CargarDatos.cs",
+              "RelativeDocumentMoniker": "Punto_Venta\\CargarDatos.cs",
+              "ToolTip": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\Punto_Venta\\Punto_Venta\\CargarDatos.cs",
+              "RelativeToolTip": "Punto_Venta\\CargarDatos.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:16:15.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "7162a8bb-9272-4adf-9b41-53a74c1d6959",
+        "Display": 1,
+        "X": 357,
+        "Y": 273,
+        "Width": 1070,
+        "Height": 504,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\Punto_Venta\\Punto_Venta\\Item.cs",
+              "RelativeDocumentMoniker": "Punto_Venta\\Item.cs",
+              "ToolTip": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\Punto_Venta\\Punto_Venta\\Item.cs",
+              "RelativeToolTip": "Punto_Venta\\Item.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:41:33.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemDescuento.cs",
+              "DocumentMoniker": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\Punto_Venta\\Punto_Venta\\ItemDescuento.cs",
+              "RelativeDocumentMoniker": "Punto_Venta\\ItemDescuento.cs",
+              "ToolTip": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\Punto_Venta\\Punto_Venta\\ItemDescuento.cs",
+              "RelativeToolTip": "Punto_Venta\\ItemDescuento.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:59:47.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "itemTA.cs",
+              "DocumentMoniker": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\Punto_Venta\\Punto_Venta\\itemTA.cs",
+              "RelativeDocumentMoniker": "Punto_Venta\\itemTA.cs",
+              "ToolTip": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\Punto_Venta\\Punto_Venta\\itemTA.cs",
+              "RelativeToolTip": "Punto_Venta\\itemTA.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA4wBoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:40:35.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

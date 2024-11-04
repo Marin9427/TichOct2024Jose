@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#2\\dia 1\\Diccionario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B9F9BB-C336-42ED-B550-66937577D329}|Diccionario\\Diccionario.csproj|c:\\users\\tichs\\documents\\bootcamp jose\\semana2 c#2\\dia 1\\diccionario\\diccionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B9F9BB-C336-42ED-B550-66937577D329}|Diccionario\\Diccionario.csproj|solutionrelative:diccionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B9F9BB-C336-42ED-B550-66937577D329}|Diccionario\\Diccionario.csproj|C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#2\\dia 1\\Diccionario\\diccionario\\crudestadoscapitales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B9F9BB-C336-42ED-B550-66937577D329}|Diccionario\\Diccionario.csproj|solutionrelative:diccionario\\crudestadoscapitales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B9F9BB-C336-42ED-B550-66937577D329}|Diccionario\\Diccionario.csproj|C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#2\\dia 1\\Diccionario\\diccionario\\estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B9F9BB-C336-42ED-B550-66937577D329}|Diccionario\\Diccionario.csproj|solutionrelative:diccionario\\estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CRUDEstadosCapitales.cs",
+              "DocumentMoniker": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#2\\dia 1\\Diccionario\\Diccionario\\CRUDEstadosCapitales.cs",
+              "RelativeDocumentMoniker": "Diccionario\\CRUDEstadosCapitales.cs",
+              "ToolTip": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#2\\dia 1\\Diccionario\\Diccionario\\CRUDEstadosCapitales.cs",
+              "RelativeToolTip": "Diccionario\\CRUDEstadosCapitales.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:50:03.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estados.cs",
+              "DocumentMoniker": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#2\\dia 1\\Diccionario\\Diccionario\\Estados.cs",
+              "RelativeDocumentMoniker": "Diccionario\\Estados.cs",
+              "ToolTip": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#2\\dia 1\\Diccionario\\Diccionario\\Estados.cs",
+              "RelativeToolTip": "Diccionario\\Estados.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:50:03.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#2\\dia 1\\Diccionario\\Diccionario\\Program.cs",
+              "RelativeDocumentMoniker": "Diccionario\\Program.cs",
+              "ToolTip": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#2\\dia 1\\Diccionario\\Diccionario\\Program.cs",
+              "RelativeToolTip": "Diccionario\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:50:03.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

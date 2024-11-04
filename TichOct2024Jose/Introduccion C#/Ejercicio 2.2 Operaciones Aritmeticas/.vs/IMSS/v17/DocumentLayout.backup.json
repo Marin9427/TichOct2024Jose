@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\IMSS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF01B32C-3E21-4AAF-9CFB-2809BA877D95}|IMSS\\IMSS.csproj|C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\IMSS\\imss\\calculadoraimss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF01B32C-3E21-4AAF-9CFB-2809BA877D95}|IMSS\\IMSS.csproj|solutionrelative:imss\\calculadoraimss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF01B32C-3E21-4AAF-9CFB-2809BA877D95}|IMSS\\IMSS.csproj|c:\\users\\tichs\\documents\\bootcamp jose\\semana2 c#\\dia 1\\imss\\imss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF01B32C-3E21-4AAF-9CFB-2809BA877D95}|IMSS\\IMSS.csproj|solutionrelative:imss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF01B32C-3E21-4AAF-9CFB-2809BA877D95}|IMSS\\IMSS.csproj|C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\IMSS\\imss\\aportacionesestructura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF01B32C-3E21-4AAF-9CFB-2809BA877D95}|IMSS\\IMSS.csproj|solutionrelative:imss\\aportacionesestructura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AportacionesEstructura.cs",
+              "DocumentMoniker": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\IMSS\\IMSS\\AportacionesEstructura.cs",
+              "RelativeDocumentMoniker": "IMSS\\AportacionesEstructura.cs",
+              "ToolTip": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\IMSS\\IMSS\\AportacionesEstructura.cs",
+              "RelativeToolTip": "IMSS\\AportacionesEstructura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:25:37.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculadoraIMSS.cs",
+              "DocumentMoniker": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\IMSS\\IMSS\\CalculadoraIMSS.cs",
+              "RelativeDocumentMoniker": "IMSS\\CalculadoraIMSS.cs",
+              "ToolTip": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\IMSS\\IMSS\\CalculadoraIMSS.cs",
+              "RelativeToolTip": "IMSS\\CalculadoraIMSS.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAADwv2sAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:25:37.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\IMSS\\IMSS\\Program.cs",
+              "RelativeDocumentMoniker": "IMSS\\Program.cs",
+              "ToolTip": "C:\\Users\\Tichs\\Documents\\BootCamp Jose\\Semana2 C#\\dia 1\\IMSS\\IMSS\\Program.cs",
+              "RelativeToolTip": "IMSS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:25:37.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

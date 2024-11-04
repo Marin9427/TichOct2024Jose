@@ -1,0 +1,15 @@
+C:\Users\Tichs\Documents\BootCamp Jose\Semana2 C#\dia 1\Menu_General\Menu_General\bin\Debug\Menu_General.exe.config
+C:\Users\Tichs\Documents\BootCamp Jose\Semana2 C#\dia 1\Menu_General\Menu_General\bin\Debug\Menu_General.exe
+C:\Users\Tichs\Documents\BootCamp Jose\Semana2 C#\dia 1\Menu_General\Menu_General\bin\Debug\Menu_General.pdb
+C:\Users\Tichs\Documents\BootCamp Jose\Semana2 C#\dia 1\Menu_General\Menu_General\obj\Debug\Menu_General.csproj.AssemblyReference.cache
+C:\Users\Tichs\Documents\BootCamp Jose\Semana2 C#\dia 1\Menu_General\Menu_General\obj\Debug\Menu_General.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Documents\BootCamp Jose\Semana2 C#\dia 1\Menu_General\Menu_General\obj\Debug\Menu_General.exe
+C:\Users\Tichs\Documents\BootCamp Jose\Semana2 C#\dia 1\Menu_General\Menu_General\obj\Debug\Menu_General.pdb
+C:\Users\Tichs\Documents\BootCampJose\Semana2 C#\dia 1\Menu_General\Menu_General\bin\Debug\Menu_General.exe.config
+C:\Users\Tichs\Documents\BootCampJose\Semana2 C#\dia 1\Menu_General\Menu_General\bin\Debug\Menu_General.exe
+C:\Users\Tichs\Documents\BootCampJose\Semana2 C#\dia 1\Menu_General\Menu_General\bin\Debug\Menu_General.pdb
+C:\Users\Tichs\Documents\BootCampJose\Semana2 C#\dia 1\Menu_General\Menu_General\obj\Debug\Menu_General.csproj.AssemblyReference.cache
+C:\Users\Tichs\Documents\BootCampJose\Semana2 C#\dia 1\Menu_General\Menu_General\obj\Debug\Menu_General.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\Documents\BootCampJose\Semana2 C#\dia 1\Menu_General\Menu_General\obj\Debug\Menu_General.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Documents\BootCampJose\Semana2 C#\dia 1\Menu_General\Menu_General\obj\Debug\Menu_General.exe
+C:\Users\Tichs\Documents\BootCampJose\Semana2 C#\dia 1\Menu_General\Menu_General\obj\Debug\Menu_General.pdb
