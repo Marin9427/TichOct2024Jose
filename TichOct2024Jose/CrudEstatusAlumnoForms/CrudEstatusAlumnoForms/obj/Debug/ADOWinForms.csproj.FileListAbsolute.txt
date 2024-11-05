@@ -1,0 +1,10 @@
+C:\Users\Tichs\source\repos\CrudEstatusAlumnoForms\CrudEstatusAlumnoForms\bin\Debug\CrudEstatusAlumnoForms.exe.config
+C:\Users\Tichs\source\repos\CrudEstatusAlumnoForms\CrudEstatusAlumnoForms\bin\Debug\CrudEstatusAlumnoForms.exe
+C:\Users\Tichs\source\repos\CrudEstatusAlumnoForms\CrudEstatusAlumnoForms\bin\Debug\CrudEstatusAlumnoForms.pdb
+C:\Users\Tichs\source\repos\CrudEstatusAlumnoForms\CrudEstatusAlumnoForms\obj\Debug\ADOWinForms.csproj.AssemblyReference.cache
+C:\Users\Tichs\source\repos\CrudEstatusAlumnoForms\CrudEstatusAlumnoForms\obj\Debug\CrudEstatusAlumnoForms.Form1.resources
+C:\Users\Tichs\source\repos\CrudEstatusAlumnoForms\CrudEstatusAlumnoForms\obj\Debug\CrudEstatusAlumnoForms.Properties.Resources.resources
+C:\Users\Tichs\source\repos\CrudEstatusAlumnoForms\CrudEstatusAlumnoForms\obj\Debug\ADOWinForms.csproj.GenerateResource.cache
+C:\Users\Tichs\source\repos\CrudEstatusAlumnoForms\CrudEstatusAlumnoForms\obj\Debug\ADOWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\source\repos\CrudEstatusAlumnoForms\CrudEstatusAlumnoForms\obj\Debug\CrudEstatusAlumnoForms.exe
+C:\Users\Tichs\source\repos\CrudEstatusAlumnoForms\CrudEstatusAlumnoForms\obj\Debug\CrudEstatusAlumnoForms.pdb
